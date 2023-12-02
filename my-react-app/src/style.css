@@ -1,0 +1,15 @@
+#root{
+  margin: 10px;
+}
+div{
+  margin-bottom: 10px;
+}
+label{
+  margin-left: 10px;
+}
+img{
+  width: 50px;
+}
+input[type="checkbox"]{
+  margin-left: 10px;
+}
